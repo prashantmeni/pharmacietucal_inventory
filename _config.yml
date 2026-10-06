@@ -1,4 +1,12 @@
+# GitHub Pages Jekyll Configuration
 theme: jekyll-theme-minimal
 title: Pharmacy Inventory Management
-description: Real-time pharmaceutical inventory tracking system
+description: A modern, lightweight inventory management dashboard for pharmaceutical stock tracking
 baseurl: /pharmacietucal_inventory
+show_downloads: false
+plugins:
+  - jekyll-seo-tag
+
+# Site configuration
+lang: en
+locale: en_US
